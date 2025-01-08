@@ -1,6 +1,6 @@
 # **DraftRoom: A Real-Time Communication Platform for Fantasy Football Leagues**
 
-Welcome to **DraftRoom**, a modern, real-time communication platform designed for dynamic collaboration within **fantasy football leagues**. Built with cutting-edge technologies like **Next.js**, **Supabase**, and **Shadcn UI**, DraftRoom offers users a seamless and customizable chat experience. Whether you're strategizing for your next draft or trash-talking your league mates, DraftRoom keeps your conversations organized and engaging.
+Welcome to **DraftRoom**, a modern, real-time communication platform designed for dynamic collaboration within **fantasy football leagues**. DraftRoom offers users a seamless and customizable chat experience. Whether you're strategizing for your next draft or trash-talking your league mates, DraftRoom keeps your conversations organized and engaging.
 
 ---
 
